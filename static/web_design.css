@@ -60,7 +60,7 @@
 
  /********************** color theme, background, and formatting *************************/
 body {
-    background-color: #d2ef97;
+    background-color: #97efed;
     background-size: auto;
     }
             
@@ -114,9 +114,14 @@ body {
         }
 
     .contact {
-        color: #94dbff;
-        font-size: 17px;
+        padding-left: 30px;
+        color: #353b3d;
+        font-size: 16px;
         font-family: 'Geneva', sans-serif;
+    }
+
+    .star {
+        color: rgb(14, 119, 247);
     }
 
 
